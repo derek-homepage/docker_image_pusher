@@ -1,1 +1,2 @@
-linuxserver/code-server:4.90.3
+rook/ceph:v1.14.7
+quay.io/ceph/ceph:v18.2.2
