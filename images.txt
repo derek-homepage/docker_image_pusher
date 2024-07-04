@@ -1,1 +1,1 @@
-busybox:1.36.1
+bitnami/git:2.43.2-debian-11-r4
