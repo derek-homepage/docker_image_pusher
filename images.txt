@@ -1,3 +1,1 @@
-netboxcommunity/netbox:v3.7.8
-bitnami/postgresql:16.1.0-debian-11-r25
-bitnami/redis:7.2.5-debian-12-r0
+busybox:1.36.1
