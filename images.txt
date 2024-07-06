@@ -1,1 +1,4 @@
-filebrowser/filebrowser:s6
+reallibrephotos/librephotos-proxy:latest
+postgres:13
+reallibrephotos/librephotos-frontend:latest
+reallibrephotos/librephotos:latest
