@@ -1,4 +1,3 @@
-reallibrephotos/librephotos-proxy:latest
-postgres:13
-reallibrephotos/librephotos-frontend:latest
-reallibrephotos/librephotos:latest
+docker.io/netboxcommunity/netbox:v4.0.7
+docker.io/postgres:16-alpine
+docker.io/redis:7-alpine
