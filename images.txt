@@ -1,4 +1,1 @@
-slurpit/warehouse:latest
-slurpit/scraper:latest
-slurpit/scanner:latest
-slurpit/portal:latest
+ghcr.io/open-webui/open-webui:ollama
