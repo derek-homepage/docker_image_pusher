@@ -1,1 +1,2 @@
-ghcr.io/open-webui/open-webui:main
+rancher/local-path-provisioner:v0.0.32
+busybox:latest
